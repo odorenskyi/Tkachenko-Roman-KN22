@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681569355 source:d:\university\¡Ã“œ\tkachenko-roman-kn22\lab08\prj\tkachenko_task\main.cpp
+	<iostream>
+	<clocale>
+	"ModulesTkachenko.h"
+
