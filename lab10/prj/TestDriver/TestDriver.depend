@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684099870 source:d:\university\¡Ã“œ\tkachenko-roman-kn22\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<ctime>
+	<iomanip>
+	<fstream>
+	"ModulesTkachenko.h"
+
+1684100110 d:\university\¡Ã“œ\tkachenko-roman-kn22\lab10\prj\modulestkachenko.h
+
