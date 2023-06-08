@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686262693 source:d:\university\¡Ã“œ\tkachenko-roman-kn22\lab12\prj\teacher\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	"ModulesTkachenko.h"
+
+1686261189 d:\university\¡Ã“œ\tkachenko-roman-kn22\lab12\prj\modulestkachenko.h
+	<string>
+	<exception>
+
